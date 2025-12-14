@@ -25,6 +25,10 @@ Neste caso podemos ver um exemplo de uso onde o usuario insere o link https://qr
 - JavaScript
 - [qrcode](https://github.com/soldair/node-qrcode) (CDN)
 
+### Instalação e Pré-requisitos
+
+Este projeto é um site disponível online e não requer instalação de software adicional ou manipulação de arquivos locais. Você pode acessar o site diretamente através do seguinte link: [Acessar o Site](https://qr-code-generator-omega-cyan.vercel.app).
+
 ## Estrutura do Projeto
 
 ```
